@@ -20,7 +20,9 @@ const Page = () => {
 <div>
 
 
-<h1 className=''>this is react netive errror page you can resoelw your error jsut see this error </h1>
+<h1 className=' text-green-500 '>react native Whenever we write any code, we see many errors in it. 
+One of them is an error rnscreen not found. Let's see how to resolve it.
+ </h1>
 <p className=' leading-10'>
 
 With a static export, Next.js can be deployed and hosted on any web server that can serve HTML/CSS/JS static assets.

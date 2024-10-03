@@ -19,6 +19,7 @@ export default  function  page() {
 
 
       <Link href={'./nextjs/nextjs_api'}>api next js</Link>   
+      <Link href={'./reactnetive/reactnetiveerror'}> react netive go home </Link>   
       <br/>
 
       <Link href={'./api'}>api</Link>   <br/>
